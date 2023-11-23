@@ -24,7 +24,6 @@ def main():
                 y2 += 1             #returneaza True daca jucatorul castiga
             else:
                 y1 += 1             #returneaza False --"--
-                                    #Y1=Y2=0 AT KELL NEZNI MIERT
         cont += 1
 
     if y1 >> y2:
